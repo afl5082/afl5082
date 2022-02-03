@@ -22,14 +22,14 @@ https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
   <a href="https://linkedin.com/in/adam-lacaria-b5182910b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://datatribute.com">
+    <img src="https://img.shields.io/badge/Hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
 </div>
   
 <img src="https://komarev.com/ghpvc/?username=afl5082&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Hi There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
