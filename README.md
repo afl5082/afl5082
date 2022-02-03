@@ -35,5 +35,9 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Arlington VA.
+I am a Data Engineer from Arlington VA.
+
+- :telescope: I’m working as a Sr. Data Engineer, building and maintaing data pipelines for a large coporation.
+
+- :zap: In my free time, I enjoy tinkering with my home servers, building Python applications and exploring the outdoors!
 
