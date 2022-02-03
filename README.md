@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src 'https://hacktiv8.com/>
+<img src 'https://hacktiv8.com/' >
