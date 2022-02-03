@@ -68,4 +68,6 @@ I am a Data Engineer from Arlington VA.
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afl5082&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Free Services For a Data Junkie](https://datatribute.com/top-free-services-for-a-data-junkie)
+- [DHT11 Temperature &amp; Humidity Sensor - Microcontroller](https://datatribute.com/dht11-temperature-and-humidity-sensor-microcontroller)
 <!-- BLOG-POST-LIST:END -->
