@@ -63,5 +63,6 @@ I am a Data Engineer from Arlington VA.
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=afl5082
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afl5082&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
