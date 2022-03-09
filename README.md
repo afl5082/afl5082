@@ -74,6 +74,6 @@ I am a Data Engineer from Arlington VA.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [How to Prepare for a Technical Data Engineer Interview](https://datatribute.com/how-to-prepare-for-a-technical-data-engineer-interview)
 - [Top Free Services For a Data Junkie](https://datatribute.com/top-free-services-for-a-data-junkie)
-- [DHT11 Temperature &amp; Humidity Sensor - Microcontroller](https://datatribute.com/dht11-temperature-and-humidity-sensor-microcontroller)
 <!-- BLOG-POST-LIST:END -->
