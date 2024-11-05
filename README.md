@@ -39,7 +39,7 @@ https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
 ### :man_technologist: About Me :
 I am a Data Engineer from Arlington VA.
 
-- :telescope: I’m working as a Sr. Data Engineer, building and maintaing data pipelines for a large coporation.
+- :telescope: I’m working as a Lead Data Engineer, building and maintaing data pipelines for a large coporation.
 
 - :zap: In my free time, I enjoy tinkering with my home servers, building Python applications and exploring the outdoors!
 
